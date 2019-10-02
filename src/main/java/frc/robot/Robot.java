@@ -34,6 +34,7 @@ public class Robot extends TimedRobot {
   // CANSparkMax motor2 = new CANSparkMax(0, MotorType.kBrushless);
   XboxController controller = new XboxController(0);
   TalonSRX motor2 = new TalonSRX(1);
+  //Adding new comment
 
   /**
    * This function is run when the robot is first started up and should be
